@@ -5,7 +5,8 @@ https://nbviewer.org/github/ahaeni/ml_project_h1n1-flu-vaccine/blob/main/ML_proj
 
 Drivendata.org is a platform that deals with real world problems. It's a nonprofit organization to analyze data, model solutions, and make predictions. Drivendata organizes competitions where data scientists can participate and do something good for the world. In this project I tried to predict the willingness
 of the American population in 2009 to be vaccinated against seasonal and swine flu (H1N1). The findings could be applied to the current situation with the
-vaccination against the coronavirus.
+vaccination against the coronavirus. See more at https://www.drivendata.org/competitions/66/flu-shot-learning/
+
 
 ## 1.Problem Definition
 A model must be developed that predicts how likely it is that the respondents will get vaccinated against seasonal and swine flu. The data comes from a "National 2009 H1N1 Flu Survey" which has been provided by the National Center for Health Statistics. The data set consists of 35 features and 2 target variables:
