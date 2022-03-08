@@ -1,5 +1,7 @@
-# Flu Shot Learning - Predict H1N1 and Seasonal Flu Vaccines
+The project has been written in python in a Jupyter notebook ML_project_vaccination_readiness.ipynb. For a better view use the nbviewer:
+https://nbviewer.org/github/ahaeni/ml_project_h1n1-flu-vaccine/blob/main/ML_project_vaccination_readiness.ipynb
 
+# Flu Shot Learning - Predict H1N1 and Seasonal Flu Vaccines
 
 Drivendata.org is a platform that deals with real world problems. It's a nonprofit organization to analyze data, model solutions, and make predictions. Drivendata organizes competitions where data scientists can participate and do something good for the world. In this project I tried to predict the willingness of the
 of the American population in 2009 to be vaccinated against seasonal and swine flu (H1N1). The findings could be applied to the current situation with the
